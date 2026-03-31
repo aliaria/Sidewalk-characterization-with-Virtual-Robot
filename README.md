@@ -11,7 +11,7 @@ Developed as part of the research described in:
 > **Ahmadi, A., Mostafavi, M.A., Morales, E., & Sabo, N. (2026).**
 > Characterizing Pedestrian Network from Segmented 3D Point Clouds for Accessibility
 > Assessment: A Virtual Robotic Approach.
-> *Sensors, 26*. https://doi.org/10.3390/xxxxx
+> *Sensors, 26*. https://doi.org/10.3390/s26072172
 
 ---
 
@@ -202,7 +202,7 @@ If you use this code in your research, please cite:
   journal = {Sensors},
   volume  = {26},
   year    = {2026},
-  doi     = {10.3390/xxxxx},
+  doi     = {doi.org/10.3390/s26072172},
   note    = {DOI to be updated upon publication}
 }
 ```
