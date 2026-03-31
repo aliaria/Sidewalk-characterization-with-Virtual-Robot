@@ -203,7 +203,6 @@ If you use this code in your research, please cite:
   volume  = {26},
   year    = {2026},
   doi     = {doi.org/10.3390/s26072172},
-  note    = {DOI to be updated upon publication}
 }
 ```
 
