@@ -1,3 +1,11 @@
+## Dataset Download
+
+The point cloud dataset used in this study is publicly available on Zenodo:
+
+**DOI:** https://doi.org/10.5281/zenodo.19354886
+
+Download the file and place it in this `data/` directory,
+then update the path in `examples/run_example.py`.
 \# Data
 
 
