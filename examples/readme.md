@@ -34,7 +34,7 @@ Ahmadi et al. (2026). Characterizing Pedestrian Network from Segmented
 
 3D Point Clouds for Accessibility Assessment: A Virtual Robotic Approach.
 
-Sensors, 26. https://doi.org/10.3390/xxxxx
+Sensors, 26. https://doi.org/10.3390/s26072172 
 
 """
 
