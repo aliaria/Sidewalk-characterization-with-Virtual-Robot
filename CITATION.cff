@@ -1,0 +1,116 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+type: software
+title: "Sidewalk Centerline Navigation from Semantically Segmented 3D LiDAR Point Clouds"
+abstract: >
+  A Python implementation of a virtual robotic approach for automated characterization
+  of pedestrian network accessibility from semantically segmented 3D LiDAR point clouds.
+  Integrates a Tangent Bug navigation algorithm extended from 2D to 3D with a triangular
+  virtual robot grounded in ADA and IBC accessibility standards. The robot navigates
+  classified point cloud data to extract running slope, cross-slope, path width, surface
+  type, step height, and centerline offset aligned with the Measure of Environmental
+  Accessibility (MEA) framework. Developed as part of the iAccess project.
+version: "1.0.0"
+date-released: "2026-03-31"
+license: MIT
+repository-code: "https://github.com/your-username/sidewalk-centerline-navigation"
+
+authors:
+  - family-names: "Ahmadi"
+    given-names: "Ali"
+    affiliation: >
+      Center for Research in Geospatial Data and Intelligence (CRDIG),
+      Department of Geomatics Sciences, Université Laval,
+      1055 Avenue du Séminaire, Quebec City, QC G1V 0A6, Canada
+    email: "ali.ahmadi.2@ulaval.ca"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+  - family-names: "Mostafavi"
+    given-names: "Mir Abolfazl"
+    affiliation: >
+      Center for Research in Geospatial Data and Intelligence (CRDIG),
+      Department of Geomatics Sciences, Université Laval, Quebec City, Canada;
+      Centre for Interdisciplinary Research in Rehabilitation and Social Integration
+      (Cirris), Quebec City, QC G1M 2S8, Canada
+    email: "Mirabolfazl.mostafavi@scg.ulaval.ca"
+
+  - family-names: "Morales"
+    given-names: "Ernesto"
+    affiliation: >
+      Centre for Interdisciplinary Research in Rehabilitation and Social Integration
+      (Cirris), Quebec City, Canada;
+      School of Rehabilitation Sciences, Faculty of Medicine, Université Laval,
+      Quebec City, QC G1V 0A6, Canada
+    email: "ernesto.morales@fmed.ulaval.ca"
+
+  - family-names: "Sabo"
+    given-names: "Nouri"
+    affiliation: >
+      Canada Centre for Mapping and Earth Observation,
+      Sherbrooke, QC J1H 4G9, Canada
+    email: "nouri.sabo@nrcan-rncan.gc.ca"
+
+keywords:
+  - accessibility assessment
+  - pedestrian network characterization
+  - LiDAR point cloud
+  - Tangent Bug algorithm
+  - virtual robot navigation
+  - wheelchair accessibility
+  - running slope
+  - cross-slope
+  - path width
+  - MEA framework
+  - ADA standards
+  - IBC standards
+  - 3D point cloud
+  - semantic segmentation
+  - urban mobility
+
+references:
+  - type: article
+    title: >
+      Characterizing Pedestrian Network from Segmented 3D Point Clouds for
+      Accessibility Assessment: A Virtual Robotic Approach
+    authors:
+      - family-names: "Ahmadi"
+        given-names: "Ali"
+      - family-names: "Mostafavi"
+        given-names: "Mir Abolfazl"
+      - family-names: "Morales"
+        given-names: "Ernesto"
+      - family-names: "Sabo"
+        given-names: "Nouri"
+    journal: "Sensors"
+    volume: 26
+    year: 2026
+    publisher:
+      name: "MDPI"
+    doi: "10.3390/xxxxx"
+    notes: >
+      Submitted for peer review. DOI to be updated upon publication.
+      Funded by the Canada Research Chairs Program, NSERC, and the
+      iAccess project (Ministère de l'Économie, de l'Innovation et de
+      l'Énergie du Québec, MEIE).
+
+  - type: article
+    title: >
+      Assistive Navigation Technologies for Inclusive Mobility: Identifying Key
+      Environmental Factors Influencing Wheelchair Navigation Through a Scoping Review
+    authors:
+      - family-names: "Ahmadi"
+        given-names: "Ali"
+      - family-names: "Jahromi"
+        given-names: "M.N."
+      - family-names: "Mostafavi"
+        given-names: "Mir Abolfazl"
+      - family-names: "Morales"
+        given-names: "Ernesto"
+      - family-names: "Sabo"
+        given-names: "Nouri"
+    journal: "ISPRS International Journal of Geo-Information"
+    volume: 15
+    issue: 2
+    pages: 75
+    year: 2026
+    doi: "10.3390/ijgi15020075"
