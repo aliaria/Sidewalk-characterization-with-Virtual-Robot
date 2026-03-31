@@ -93,24 +93,3 @@ references:
       iAccess project (Ministère de l'Économie, de l'Innovation et de
       l'Énergie du Québec, MEIE).
 
-  - type: article
-    title: >
-      Assistive Navigation Technologies for Inclusive Mobility: Identifying Key
-      Environmental Factors Influencing Wheelchair Navigation Through a Scoping Review
-    authors:
-      - family-names: "Ahmadi"
-        given-names: "Ali"
-      - family-names: "Jahromi"
-        given-names: "M.N."
-      - family-names: "Mostafavi"
-        given-names: "Mir Abolfazl"
-      - family-names: "Morales"
-        given-names: "Ernesto"
-      - family-names: "Sabo"
-        given-names: "Nouri"
-    journal: "ISPRS International Journal of Geo-Information"
-    volume: 15
-    issue: 2
-    pages: 75
-    year: 2026
-    doi: "10.3390/ijgi15020075"
